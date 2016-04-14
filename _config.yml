@@ -2,12 +2,13 @@ name: 96zero.com
 favicon: null
 layout_spectrum: 0.21212182682938874
 typography_spectrum: 0.6506013488397002
+title: 96zero
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-54281129-1
   facebook: null
   twitter: null
 opengraph:
