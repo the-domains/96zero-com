@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[96zero]]></title>
+        <description><![CDATA[96zero]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 16 Apr 2016 10:06:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sunny day in park]]></title>
+            <description><![CDATA[<h1>Sunny day in park</h1>]]></description>
+            <link>undefinedsunny-day-in-park/index.html</link>
+            <guid isPermaLink="false">4731108b-c8d0-4ad0-a567-0ce46fe7f044</guid>
+            <pubDate>Sat, 16 Apr 2016 10:06:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
