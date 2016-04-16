@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[96zero]]></title>
         <description><![CDATA[96zero]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://96zero.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 10:06:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Apr 2016 10:20:06 GMT</lastBuildDate>
+        <atom:link href="http://96zero.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sunny day in park]]></title>
-            <description><![CDATA[<h1>Sunny day in park</h1>]]></description>
-            <link>undefinedsunny-day-in-park/index.html</link>
+            <description><![CDATA[<article><h1>Sunny day in park</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6954dfc0-fb11-4743-8eff-7a2a292117de.png"></article>]]></description>
+            <link>http://96zero.com/sunny-day-in-park/index.html</link>
             <guid isPermaLink="false">4731108b-c8d0-4ad0-a567-0ce46fe7f044</guid>
-            <pubDate>Sat, 16 Apr 2016 10:06:36 GMT</pubDate>
+            <pubDate>Sat, 16 Apr 2016 10:19:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
