@@ -1,5 +1,8 @@
+name: 96zero.com
+favicon: null
+layout_spectrum: 0.49824
+typography_spectrum: 0.6506013488397002
 title: 96zero
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.718638
-  brandStrength: 0.2831541
-  lightness: 0.8154122
-  brandColors:
-    - '#4265A2'
-    - '#E8D7BE'
-    - '#023966'
-    - '#3A411F'
-    - '#88FFFF'
-  rhythmicContrast: 0.4910394
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: UA-54281129-1
   facebook: null
-favicon: null
-name: 96zero.com
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.6506013488397002
-layout_spectrum: 0.6487455
+color:
+  brandColors:
+    - '#010101'
+    - '#fefefe'
+    - '#b3bbc6'
+    - '#004080'
+    - '#456a9e'
+  brandStrength: 0.2831541
+  lightness: 0.8154122
+  saturation: 0.718638
+  rhythmicContrast: 0.4910394
+purpose: []
