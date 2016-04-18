@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[96zero]]></title>
         <description><![CDATA[96zero]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://96zero.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 12:04:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 12:08:44 GMT</lastBuildDate>
+        <atom:link href="http://96zero.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Research Men in Uniform Dating Communities ]]></title>
+            <description><![CDATA[<article><h1>Research Men in Uniform Dating Communities </h1><p>When you are thinking of dating online, and you have an interest in men in uniform dating, knowing how to find the right community while setting up your profile is a must. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e91c01a-67f3-4573-87eb-9f4463f2f13b.jpg"></article>]]></description>
+            <link>http://96zero.com/research-men-in-uniform-dating-communities/index.html</link>
+            <guid isPermaLink="false">d7362caf-4d15-4c64-9a8a-15ea93e70590</guid>
+            <pubDate>Mon, 18 Apr 2016 12:08:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[History of Linen Suits for Men]]></title>
             <description><![CDATA[<article><h1>History of Linen Suits for Men</h1><p>Nothing says summer like linen suits for men. This cool classic has been a staple of gentleman’s summer wardrobes for hundreds of years. If you want to look your best when the temperature rises, you need to know how to stay cool. There is no better way to beat the heat and look good doing it than to wear a linen suit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb6d27f2300a6203d59c3a1acf31b3b3b133ed4f.jpg"></article>]]></description>
-            <link>undefinedhistory-of-linen-suits-for-men/index.html</link>
+            <link>http://96zero.com/history-of-linen-suits-for-men/index.html</link>
             <guid isPermaLink="false">324183a2-506a-440e-8bda-104d4c0ce5fa</guid>
             <pubDate>Mon, 18 Apr 2016 12:04:26 GMT</pubDate>
         </item>
