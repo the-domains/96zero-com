@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Those jeans make your butt look hot. Your shirt has gotten so many compliments from the opposite sex, you wish you owned half a dozen. Even your scruffy beard has been trimmed to perfection--but until you add the finishing touch, you’ll never be ready to shine your light over a room full of desirable ladies. Nope. '
-datePublished: '2016-04-19T07:10:25.531Z'
-dateModified: '2016-04-19T07:10:14.321Z'
+datePublished: '2016-04-19T07:13:19.751Z'
+dateModified: '2016-04-19T07:12:36.060Z'
 title: 'The One for Men by Dolce & Gabbana'
 author:
   - name: ''
@@ -83,7 +83,6 @@ Rated against other top pheromone-based colognes, Edge Up literally edges out Ph
 ## Fierce by Abercrombie & Fitch
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b53bdac-057c-49a3-8320-885d7cf06f6a.jpg)
 
-  
 You know a fragrance belongs on a best smelling mens cologne list when droves of women (and a few guys) swear Fierce drives people wild, and while we didn't ask for substantiation or photos attesting to this phenomenon, we're taking the word of folks uttering passionate reactions after applying this popular cologne. 
 
 Dubbed fantastic and best reserved for special occasions, this pricey formulation doesn't seem to daunt men on budgets who wouldn't be caught flirting without their secret weapon, no matter what the price tag says. 
