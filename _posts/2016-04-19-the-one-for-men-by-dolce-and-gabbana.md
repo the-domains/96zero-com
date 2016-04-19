@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Those jeans make your butt look hot. Your shirt has gotten so many compliments from the opposite sex, you wish you owned half a dozen. Even your scruffy beard has been trimmed to perfection--but until you add the finishing touch, you’ll never be ready to shine your light over a room full of desirable ladies. Nope. '
-datePublished: '2016-04-19T07:13:19.751Z'
-dateModified: '2016-04-19T07:12:36.060Z'
+datePublished: '2016-04-19T07:13:58.458Z'
+dateModified: '2016-04-19T07:13:30.395Z'
 title: 'The One for Men by Dolce & Gabbana'
 author:
   - name: ''
