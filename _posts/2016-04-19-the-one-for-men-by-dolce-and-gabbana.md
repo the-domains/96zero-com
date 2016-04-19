@@ -6,20 +6,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Those jeans make your butt look hot. Your shirt has gotten so many compliments from the opposite sex, you wish you owned half a dozen. Even your scruffy beard has been trimmed to perfection--but until you add the finishing touch, you’ll never be ready to shine your light over a room full of desirable ladies. Nope. '
-datePublished: '2016-04-19T07:06:35.753Z'
-dateModified: '2016-04-19T07:03:34.305Z'
+datePublished: '2016-04-19T07:10:25.531Z'
+dateModified: '2016-04-19T07:10:14.321Z'
 title: 'The One for Men by Dolce & Gabbana'
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-19-the-one-for-men-by-dolce-and-gabbana.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-19-the-one-for-men-by-dolce-and-gabbana.md
-published: true
 url: the-one-for-men-by-dolce-and-gabbana/index.html
 _type: Article
 
@@ -53,7 +53,6 @@ Sure, this best smelling mens cologne been around since the 1990s, but spray som
 ## Acqua di Gio by Armani
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59ae140e-c883-4516-bb49-d9ffa912afe0.jpg)
 
-  
 While we're on the subject of nautical masculinity, serendipity demands following Nautica Voyage with an homage to Giorgio Armani's Acqua di Gio; the two are twin sons of other mothers. 
 
 Debuted in 1996, this is not your father's cologne---unless your dad happens to be a Greek shipping tycoon who always smells of Mediterranean Sea air that blows across this fragrant body of water. 
