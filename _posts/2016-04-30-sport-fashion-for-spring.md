@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-30T08:02:21.072Z'
-dateModified: '2016-04-30T08:01:58.809Z'
+datePublished: '2016-04-30T08:02:40.175Z'
+dateModified: '2016-04-30T08:02:33.950Z'
 title: Sport Fashion for Spring
 author:
   - name: ''
@@ -37,7 +37,6 @@ _type: Article
 
 ## SKINNY FIT SWEATER WITH RIP DETAIL - [Boohoo][3]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/22f131d02702ca0e6b73b7345c784ebeb225ad2f.jpg)
-
 
 [0]: http://bit.ly/1VFdmR3
 [1]: http://bit.ly/1VFdpfJ
