@@ -5,12 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'http://bit.ly/1SW1p5W'
-datePublished: '2016-05-03T10:52:11.138Z'
-dateModified: '2016-05-03T10:51:58.762Z'
+datePublished: '2016-05-03T10:59:56.197Z'
+dateModified: '2016-05-03T10:59:37.096Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-03-urban-renewal-vintage-surplus-sand-harrington-jacket.md
+published: true
 authors: []
 publisher:
   name: null
@@ -18,8 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-03-urban-renewal-vintage-surplus-sand-harrington-jacket.md
-published: true
 url: urban-renewal-vintage-surplus-sand-harrington-jacket/index.html
 _type: Article
 
