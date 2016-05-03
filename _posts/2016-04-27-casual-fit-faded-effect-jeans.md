@@ -2,15 +2,17 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
-description: CASUAL FIT FADED EFFECT JEANS
-datePublished: '2016-04-30T07:38:40.034Z'
-dateModified: '2016-04-30T07:38:34.725Z'
-author: []
+description: ''
+datePublished: '2016-05-03T10:23:53.667Z'
+dateModified: '2016-05-03T10:22:05.014Z'
+author:
+  - name: ''
+    url: ''
 published: true
-title: ''
+title: CASUAL FIT FADED EFFECT JEANS
 sourcePath: _posts/2016-04-27-casual-fit-faded-effect-jeans.md
 authors: []
 publisher:
