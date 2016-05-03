@@ -5,12 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Maison Margiela's Replica high-top sneakers are crafted of navy and midnight suede dipped in coppertone paint."
-datePublished: '2016-05-03T10:54:52.025Z'
-dateModified: '2016-05-03T10:54:42.794Z'
+datePublished: '2016-05-03T10:59:41.246Z'
+dateModified: '2016-05-03T10:59:16.519Z'
 title: Paint-Dipped Replica Sneakers
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-03-paint-dipped-replica-sneakers.md
+published: true
 authors: []
 publisher:
   name: null
@@ -18,8 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-03-paint-dipped-replica-sneakers.md
-published: true
 url: paint-dipped-replica-sneakers/index.html
 _type: Article
 
