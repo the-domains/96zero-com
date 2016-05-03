@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: 'Trench coat with a flecked appearance, made from an Italian fabric which is characterised for its breathable, light and water resistant qualities. '
-datePublished: '2016-04-30T08:12:41.976Z'
-dateModified: '2016-04-30T08:12:41.418Z'
+datePublished: '2016-05-03T10:20:46.446Z'
+dateModified: '2016-05-03T10:20:45.882Z'
 author:
   - name: ''
     url: ''
