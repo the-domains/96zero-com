@@ -14,15 +14,15 @@ collections:
       number: 10
 color:
   saturation: 0.718638
-  brandStrength: 0.5
-  rhythmicContrast: 0.4910394
+  brandStrength: 0.234767
+  lightness: 0.8154122
   brandColors:
     - '#010101'
     - '#fefefe'
     - '#b3bbc6'
     - '#004080'
     - '#456a9e'
-  lightness: 0.8154122
+  rhythmicContrast: 0.4910394
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: UA-54281129-1
   facebook: null
-name: 96zero.com
 favicon: null
+name: 96zero.com
 opengraph:
   image: null
   type: null
