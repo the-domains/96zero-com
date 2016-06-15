@@ -1,41 +1,41 @@
-name: 96zero.com
-favicon: null
-layout_spectrum: 0.62552
-typography_spectrum: 0.6506013488397002
 title: 96zero
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-54281129-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0.718638
+  brandStrength: 0.5
+  rhythmicContrast: 0.4910394
   brandColors:
     - '#010101'
     - '#fefefe'
     - '#b3bbc6'
     - '#004080'
     - '#456a9e'
-  brandStrength: 0.5
   lightness: 0.8154122
-  saturation: 0.718638
-  rhythmicContrast: 0.4910394
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-54281129-1
+  facebook: null
+name: 96zero.com
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.6506013488397002
+layout_spectrum: 0.4551971
