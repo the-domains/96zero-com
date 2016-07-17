@@ -1,19 +1,16 @@
 ---
+datePublished: '2016-07-17T08:01:30.174Z'
+sourcePath: _posts/2016-07-17-hotel-the-volcan-lanzarote.md
+hasPage: true
+author: []
+dateModified: '2016-07-17T08:00:54.784Z'
+title: Hotel THe Volcán Lanzarote
 description: >-
   Hotel THe Volcán Lanzarote is located next to Lanzarote’s Marina Rubicón Port
   and 900 m from Playa Blanca. It offers an outdoor pool, a spa and rooms with
   satellite TV.
-dateModified: '2016-07-17T07:50:52.256Z'
-datePublished: '2016-07-17T07:58:15.646Z'
-title: Hotel THe Volcán Lanzarote
-author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f08d4e23-b37f-4f00-acb3-150d7ec7b226.jpg
-sourcePath: _posts/2016-07-17-hotel-the-volcan-lanzarote.md
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: hotel-the-volcan-lanzarote/index.html
 _type: MediaObject
 
 ---
