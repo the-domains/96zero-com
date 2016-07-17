@@ -1,15 +1,14 @@
 ---
 author: []
 title: Dodge Ram on sunrise
-dateModified: '2016-06-15T07:38:08.140Z'
-datePublished: '2016-06-15T07:38:37.800Z'
+dateModified: '2016-07-17T07:55:37.586Z'
+datePublished: '2016-07-17T07:57:52.282Z'
 description: ''
-starred: false
 sourcePath: _posts/2016-06-15-dodge-ram-on-sunrise.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: dodge-ram-on-sunrise/index.html
+_type: Blurb
 
 ---
 # Dodge Ram on sunrise
