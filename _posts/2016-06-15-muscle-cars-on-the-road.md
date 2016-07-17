@@ -1,15 +1,14 @@
 ---
 author: []
 title: Muscle Cars on the road
-dateModified: '2016-06-24T21:44:14.708Z'
-datePublished: '2016-06-24T21:44:38.910Z'
+dateModified: '2016-07-17T07:56:57.732Z'
+datePublished: '2016-07-17T07:58:10.411Z'
 description: ''
 sourcePath: _posts/2016-06-15-muscle-cars-on-the-road.md
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: muscle-cars-on-the-road/index.html
+_type: Blurb
 
 ---
 # Muscle Cars on the road
