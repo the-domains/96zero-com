@@ -1,9 +1,10 @@
 ---
-datePublished: '2016-07-17T08:01:30.174Z'
+datePublished: '2016-07-17T08:03:39.152Z'
 sourcePath: _posts/2016-07-17-hotel-the-volcan-lanzarote.md
+inFeed: true
 hasPage: true
 author: []
-dateModified: '2016-07-17T08:00:54.784Z'
+dateModified: '2016-07-17T08:03:32.754Z'
 title: Hotel THe Volcán Lanzarote
 description: >-
   Hotel THe Volcán Lanzarote is located next to Lanzarote’s Marina Rubicón Port
@@ -11,7 +12,7 @@ description: >-
   satellite TV.
 starred: false
 url: hotel-the-volcan-lanzarote/index.html
-_type: MediaObject
+_type: Article
 
 ---
 # Hotel THe Volcán Lanzarote
