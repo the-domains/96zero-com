@@ -1,4 +1,10 @@
 ---
+datePublished: '2016-07-17T07:53:33.603Z'
+sourcePath: _posts/2016-07-17-ocean-dreams-marina-and-spa-villages.md
+hasPage: true
+author: []
+dateModified: '2016-07-17T07:53:17.284Z'
+title: Ocean Dreams Marina & Spa Villages
 description: >-
   Set near the ocean, these luxury villas with private outdoor pools are 5
   minutes’ walk from Lanzarote’s Rubicón Marina. Guests have use of facilities
@@ -11,17 +17,8 @@ description: >-
   Beach is a 5-minute drive away. This property is also rated for the best value
   in Playa Blanca! Guests are getting more for their money when compared to
   other properties in this city.
-dateModified: '2016-07-17T07:50:07.796Z'
-datePublished: '2016-07-17T07:50:13.528Z'
-title: Ocean Dreams Marina & Spa Villages
-author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/38572406-1fc1-46e8-8f8d-7f7e23b74b3d.jpg
-sourcePath: _posts/2016-07-17-ocean-dreams-marina-and-spa-villages.md
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: ocean-dreams-marina-and-spa-villages/index.html
 _type: MediaObject
 
 ---
