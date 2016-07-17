@@ -1,14 +1,15 @@
 ---
-title: Red hoodies
-datePublished: '2016-07-17T07:58:12.755Z'
-dateModified: '2016-07-17T07:57:17.847Z'
-author: []
-description: ''
+datePublished: '2016-07-17T08:03:17.398Z'
 sourcePath: _posts/2016-06-06-red-hoodies.md
+inFeed: true
 hasPage: true
+author: []
+dateModified: '2016-07-17T08:03:10.550Z'
+title: Red hoodies
+description: ''
 starred: false
 url: red-hoodies/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Red hoodies
