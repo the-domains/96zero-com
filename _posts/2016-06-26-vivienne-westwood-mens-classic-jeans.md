@@ -1,16 +1,13 @@
 ---
-title: Vivienne Westwood Men's Classic Jeans
-datePublished: '2016-07-17T06:54:14.766Z'
-dateModified: '2016-07-17T06:53:56.609Z'
-author: []
-isBasedOnUrl: >-
-  https://www.amazon.com/gp/aw/d/B00SFWIDVI/ref=pd_aw_sim_sbs_193_1?ie=UTF8&dpID=41gZNy6dUeL&dpSrc=sims&preST=_AC_UL100_SR100%2C100_&refRID=1YZGS9J99YPXQP4NC744
-description: ''
+datePublished: '2016-07-17T07:58:07.014Z'
 sourcePath: _posts/2016-06-26-vivienne-westwood-mens-classic-jeans.md
+hasPage: true
+author: []
+dateModified: '2016-07-17T07:56:23.818Z'
+title: Vivienne Westwood Men's Classic Jeans
+description: ''
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: vivienne-westwood-mens-classic-jeans/index.html
 _type: MediaObject
 
 ---
