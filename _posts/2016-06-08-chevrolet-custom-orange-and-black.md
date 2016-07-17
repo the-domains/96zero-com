@@ -1,15 +1,14 @@
 ---
 author: []
-datePublished: '2016-06-08T08:20:01.909Z'
+datePublished: '2016-07-17T07:57:59.377Z'
 title: Chevrolet custom orange and black
 description: Black and orange
 sourcePath: _posts/2016-06-08-chevrolet-custom-orange-and-black.md
-dateModified: '2016-06-08T08:19:46.024Z'
+dateModified: '2016-07-17T07:55:48.135Z'
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: chevrolet-custom-orange-and-black/index.html
+_type: Blurb
 
 ---
 # Chevrolet custom orange and black
