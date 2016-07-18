@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-17T08:04:12.071Z'
+datePublished: '2016-07-18T13:53:54.524Z'
 sourcePath: _posts/2016-07-17-hotel-the-volcan-lanzarote.md
 inFeed: true
 hasPage: true
 author: []
-dateModified: '2016-07-17T08:04:03.184Z'
+dateModified: '2016-07-18T13:53:50.212Z'
 title: Hotel THe Volcán Lanzarote
 description: >-
   Hotel THe Volcán Lanzarote is located next to Lanzarote’s Marina Rubicón Port
@@ -27,9 +27,20 @@ The hotel has 5 restaurants, serving a range of food from Japanese to Italian. T
 
 The Lanzarote's spa features a hot tub, a waterbubble bed and Turkish bath. You can also use nearby tennis and paddle courts for free.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d4ceb98-49a4-4a3c-b5da-f3c53d9f6744.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67c36e31-d423-40bb-85a2-7b2c0512ccd2.jpg)
 
 Hotel THe Volcán Lanzarote is 10 km from Timanfa National Park. The fishing village of Playa Blanca offers a range of shops, bars and restaurants, as well as a seafront promenade.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67c36e31-d423-40bb-85a2-7b2c0512ccd2.jpg)
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"\></script\>   
+<!-- 96zero inpost responsive --\>   
+<ins class="adsbygoogle"   
+style="display:block"   
+data-ad-client="ca-pub-9895543826995779"   
+data-ad-slot="8902846029"   
+data-ad-format="auto"\></ins\>   
+<script\>   
+(adsbygoogle = window.adsbygoogle || \[\]).push({});   
+</script\>
 
 This property is also rated for the best value in Playa Blanca! Guests are getting more for their money when compared to other properties in this city.
 
